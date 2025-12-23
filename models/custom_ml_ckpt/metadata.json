@@ -1,0 +1,13 @@
+{
+  "model_name": "logreg",
+  "train_rows": 44,
+  "val_rows": 9,
+  "test_rows": 10,
+  "pos_weight_train": 2.3846153846153846,
+  "threshold": 0.5,
+  "trained_at": "2025-12-23T17:55:55",
+  "best_cv_pr_auc": 0.774126984126984,
+  "best_params": {
+    "clf__C": 10.0
+  }
+}
