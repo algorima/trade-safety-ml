@@ -127,15 +127,8 @@ print(result)
 
 ---
 
-## 6) Git push (원격 덮어쓰기 OK)
 
-> ⚠️ 원격 main을 강제로 덮어쓰려면 `--force`가 필요합니다.
 
-```powershell
-git add -A
-git commit -m "Add custom ML pipeline (dataset merge + train/eval + ckpt)"
-git push origin main --force
-```
 
 ---
 
