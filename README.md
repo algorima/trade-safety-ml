@@ -125,10 +125,6 @@ print(result)
     - PayPal G&S, timestamp/proof, shipping/tracking
     - 가격($/usd) 존재
 
----
-
-
-
 
 ---
 
